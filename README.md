@@ -1,2 +1,2 @@
 # connectfour
-Using TDD (RSpec) to build a game of ConnectFour.
+A game of ConnectFour built using TDD (RSpec).
